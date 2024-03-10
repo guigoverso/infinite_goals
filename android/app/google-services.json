@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127828543013",
+    "project_id": "infinite-goals",
+    "storage_bucket": "infinite-goals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127828543013:android:da80bb985d2fc18bea61cc",
+        "android_client_info": {
+          "package_name": "com.guilhermeoccorona.infinite_goals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQEIJczy63yAeoinWwbcpUEiK0fDE2dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
